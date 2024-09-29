@@ -7,13 +7,18 @@ You can download it from the official Python website.
 Required Libraries:
 
 pyautogui: For mouse control.
+
 numpy: Useful for numerical operations.
+
 pywin32: For Windows GUI interactions (like getting the window handles).
+
 tkinter: This comes pre-installed with Python, but if it’s not available, install it via your package manager.
 You can install the required libraries using pip:
 
-
+Requirements:
 pip install pyautogui numpy pywin32
+
+
 Minecraft: Ensure that you have Minecraft running, and that you have access to the window you want to control.
 
 Usage
